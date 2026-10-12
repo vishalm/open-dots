@@ -286,6 +286,9 @@ Next.js web UI┘          ├── disposable sandboxes (Boat provider)
 - [frontend/](frontend) - Next.js web UI. See
   [frontend/README.md](frontend/README.md) for frontend-specific notes.
 - [scripts/dev.sh](scripts/dev.sh) - one-command dev environment for both.
+- [site/](site) - public marketing site (Next.js), deployed at
+  [open-dots-kappa.vercel.app](https://open-dots-kappa.vercel.app). See
+  [site/README.md](site/README.md).
 
 ## Known limitations
 
