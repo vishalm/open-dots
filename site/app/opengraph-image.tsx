@@ -64,7 +64,7 @@ export default function OpengraphImage() {
             display: "flex",
           }}
         >
-          Run your own self-hosted AI coding agent.
+          Stop renting your AI agent.
         </div>
       </div>
     ),

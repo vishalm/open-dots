@@ -23,13 +23,13 @@ export function Hero() {
         </span>
 
         <h1 className="text-balance mt-6 text-4xl font-semibold leading-[1.1] tracking-tight text-[var(--fg)] sm:text-5xl lg:text-6xl">
-          Run Claude Code from anywhere. Own every byte.
+          Stop renting your AI agent.
         </h1>
 
         <p className="mt-6 max-w-lg text-lg leading-relaxed text-[var(--fg-muted)]">
-          Open Dots is an open-source, self-hosted alternative to paid AI
-          agent products. Run coding tasks from Telegram or the web, approve
-          every risky action, and keep credentials on infrastructure you
+          Open Dots is the self-hosted, open-source way to run coding agent
+          tasks from Telegram or the web. Every risky action waits for your
+          approval, and every credential stays on infrastructure you
           control.
         </p>
 

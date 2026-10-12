@@ -17,7 +17,7 @@ const siteUrl = "https://open-dots.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: "Open Dots - Run your own AI coding agent",
+  title: "Open Dots - Stop renting your AI agent",
   description:
     "Open Dots is an open-source, self-hosted alternative to paid AI agent products. Run Claude Code tasks from Telegram or the web, approve every risky action, and keep your credentials on your own infrastructure.",
   keywords: [
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Vishal Mishra", url: "https://github.com/vishalm" }],
   openGraph: {
-    title: "Open Dots - Run your own AI coding agent",
+    title: "Open Dots - Stop renting your AI agent",
     description:
       "Self-hosted, open-source alternative to paid AI agent products. Run tasks from Telegram or the web, approve every risky action.",
     url: siteUrl,
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Open Dots - Run your own AI coding agent",
+    title: "Open Dots - Stop renting your AI agent",
     description:
       "Self-hosted, open-source alternative to paid AI agent products.",
   },
